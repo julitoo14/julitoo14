@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hola, soy Julian Garcia 👋
 
-<!--
-**julitoo14/julitoo14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador apasionado por la música 🎵 y la tecnología 💻. Me encanta crear aplicaciones web con Vue.js y Node.js, principalmente del lado Back-end y siempre estoy buscando aprender algo nuevo.
 
-Here are some ideas to get you started:
+## 🛠️ Mis habilidades técnicas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Desarrollo Front-end con Vue.js
+- Desarrollo Back-end con Node.js y Express
+- Base de datos con MongoDB y MySql
+
+## 🌱 Actualmente estoy aprendiendo
+
+Estoy trabajando para mejorar mis habilidades en desarrollo backend.
+
+## 📫 Cómo contactarme
+
+Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/julian-garcia/)
+
+## ⚡ Dato curioso
+
+Además de la programación, me encanta la musica 🎸 , jugar al futbol ⚽️ y salir con amigos 😜
+
