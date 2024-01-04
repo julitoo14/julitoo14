@@ -4,7 +4,7 @@ Soy un desarrollador apasionado por la música 🎵 y la tecnología 💻. Me en
 
 ## 🛠️ Mis habilidades técnicas
 
-- Desarrollo Front-end con Vue.js, Html5 y Css
+- Desarrollo Front-end con Vue.js, React, Html5 y Css
 - Desarrollo Back-end con Node.js y Express
 - Base de datos con MongoDB y MySql
 - Conocimientos en Java, Python
