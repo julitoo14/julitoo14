@@ -5,9 +5,9 @@ Soy un desarrollador apasionado por la música 🎵 y la tecnología 💻. Me en
 ## 🛠️ Mis habilidades técnicas
 
 - Desarrollo Front-end con Vue.js, React, Html5 y Css
-- Desarrollo Back-end con Node.js y Express
+- Desarrollo Back-end con Node.js y Expres
 - Base de datos con MongoDB y MySql
-- Conocimientos en Java, Python
+- Conocimientos en Java, Python y Php
 - Conocimiento de sistemas Linux
 
 ## 🌱 Actualmente estoy aprendiendo
@@ -18,7 +18,4 @@ Estoy trabajando para mejorar mis habilidades en desarrollo backend y realizando
 
 Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/julian-garcia/)
 
-## ⚡ Dato curioso
-
-Además de la programación, me encanta la musica 🎸 , jugar al futbol ⚽️ y salir con amigos 😜
 
