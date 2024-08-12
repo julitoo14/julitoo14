@@ -1,6 +1,6 @@
 # Hola, soy Julian Garcia 👋
 
-Soy un desarrollador apasionado por la música 🎵 y la tecnología 💻. Me encanta crear aplicaciones web con Vue.js y Node.js, principalmente del lado Back-end y siempre estoy buscando aprender algo nuevo.
+Soy un desarrollador Web. Me encanta crear aplicaciones web con Vue.js y Node.js, principalmente del lado Back-end y siempre estoy buscando aprender algo nuevo.
 
 ## 🛠️ Mis habilidades técnicas
 
