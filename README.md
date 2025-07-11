@@ -1,23 +1,62 @@
-# Hola, soy Julian Garcia 👋
+# ¡Hola! Soy Julián García 👋
 
-Soy desarrollador Web. Me encanta crear aplicaciones web con Vue.js y Node.js, principalmente del lado Back-end y siempre estoy buscando aprender algo nuevo.
+**Full-Stack Web Developer** apasionado por construir soluciones escalables y de alto impacto.
 
-## 🛠️ Mis habilidades técnicas
+---
 
-- Desarrollo Front-end con Vue.js, React, Javascript, Tailwind CSS
-- Desarrollo Back-end con Node.js y Express.js
-- Base de datos con MongoDB y MySql
-- Conocimientos en Java, Python y Php
-- Conocimiento de sistemas Linux
+## 🧰 Stack Principal
 
-## 🌱 Actualmente estoy aprendiendo
+* **Frontend**: Vue.js · React · JavaScript · TypeScript · Tailwind CSS
+* **Backend**: Node.js · Express.js · Microservicios · Docker · JWT Authentication
+* **Bases de Datos**: MongoDB · MySQL
+* **Infra & DevOps**: Linux · Nginx · Docker Compose
+* **Otros Lenguajes**: Python · Java · PHP
 
-Estoy trabajando para mejorar mis habilidades en desarrollo backend y realizando una tecnicatura de desarrollo web
+---
 
-## 📫 Cómo contactarme
+## 🚀 Proyectos Destacados
 
-Puedes encontrarme en [LinkedIn](https://short.juliangarciasuarez.tech/linkedin)
-Y puedes ver mi [Portafolio](https://short.juliangarciasuarez.tech/portafolio)
-Contactarme por mail a juuligarcia2208@gmail.com
+### 🌱 App para Celiacos
 
+* Arquitectura de microservicios (usuarios, restaurantes, recetas)
+* Mapa interactivo de restaurantes sin TACC (Google Maps API)
+* Reseñas, perfil de usuario y sección de noticias
+* Deploy en VPS con Nginx y Docker
 
+### ⚽ Prode – Plataforma de Pronósticos
+
+* Modelado de torneos, participantes y partidos
+* Lógica de puntuación automática de predicciones
+* Validación robusta con Zod y pruebas unitarias/integración (Jest + Supertest)
+
+### 🔗 URL Shortener
+
+* Servicio de acortado de URLs: creación, redirección y estadísticas
+* Alias personalizado y expiración de enlaces
+* Backend en Node.js, Express.js y MongoDB
+* Frontend en Vue.js con Tailwind CSS
+* Dockerizado y desplegado en VPS con Nginx
+
+---
+
+## 🎓 Formación
+
+* **Tecnicatura en Programación (UTN)** — Inicio Agosto 2025
+
+---
+
+## 🌟 Actualmente
+
+* Afinando arquitectura de microservicios
+* Profundizando en patrones de diseño y mejores prácticas de testing
+* Construyendo mi portafolio y buscando nuevas oportunidades de colaboración
+
+---
+
+## 📫 Contáctame
+
+* [Portfolio](https://short.juliangarciasuarez.tech/portafolio)
+* [LinkedIn](https://short.juliangarciasuarez.tech/linkedin)
+* ✉️ [juuligarcia2208@gmail.com](mailto:juuligarcia2208@gmail.com)
+
+¡Gracias por visitar! 🎉
